@@ -1,5 +1,5 @@
 ### Hi there 👋
-![inkedIn](www.linkedin.com/in/sumit-kumar-a0b037128)
+<!-- ![inkedIn](www.linkedin.com/in/sumit-kumar-a0b037128) -->
 
 - 🔭 I’m currently working on ...Vue.js
 - 🌱 I’m currently learning ...ReactJs
