@@ -10,4 +10,4 @@ I am a Fullstack Developer. Currently working as a Senior Software Developer [@G
 - 💬 Ask me about Anything
 - 📫 How to reach me: www.linkedin.com/in/sumit-kumar-a0b037128
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
