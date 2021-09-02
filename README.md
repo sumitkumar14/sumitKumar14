@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I am Sumit
-### I am currently Working as a Senior Software Developer  ![@Global IDs](https://www.globalids.com/)
+### I am currently Working as a Senior Software Developer  [@Global IDs](https://www.globalids.com/)
 <!-- ![inkedIn](www.linkedin.com/in/sumit-kumar-a0b037128) -->
 
 - 🔭 I’m currently working on ...Vue.js
