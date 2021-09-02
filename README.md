@@ -3,8 +3,8 @@
 I am a Fullstack Developer. Currently working as a Senior Software Developer [@Global IDs](https://www.globalids.com/).
 <!-- ![inkedIn](www.linkedin.com/in/sumit-kumar-a0b037128) -->
 
-- 🔭 I’m currently working on Vue.js
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on [Vue.js](https://vuejs.org/)
+- 🌱 I’m currently learning [ReactJs](https://reactjs.org/)
 - 👯 I’m looking to collaborate on ReactJs
 - 🤔 I’m looking for help with AWS,Docker
 - 💬 Ask me about Anything
