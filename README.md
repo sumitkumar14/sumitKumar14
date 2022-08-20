@@ -6,7 +6,7 @@ I am a Fullstack Developer. Currently working as Systems Engineer [@TCS](https:/
 - 🔭 I’m currently working on [Vue.js](https://vuejs.org/)
 - 🌱 I’m currently learning [ReactJs](https://reactjs.org/)
 - 👯 I’m looking to collaborate on ReactJs
-- 🤔 I’m looking for help with AWS,Docker
+- 🤔 I’m looking for help with Azure,Docker
 - 💬 Ask me about Anything
 - 📫 How to reach me: www.linkedin.com/in/sumit-kumar-a0b037128
 - 😄 Pronouns: He/Him
